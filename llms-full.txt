@@ -1,0 +1,1630 @@
+# StreamerOS Image Tools: full site text
+
+> The readable text of every public page on https://images.streamerosai.com, built by Yaseen Khatib, Full Stack AI Developer, Hyderabad, India
+> (https://yk.streamerosai.com/). The short map is at https://images.streamerosai.com/llms.txt.
+
+
+---
+
+# Image Tools: Compress, Resize and Convert Images Online
+
+URL: https://images.streamerosai.com/
+
+- Nothing uploaded
+- Instant
+- Free
+
+## Image tools that never upload your photos
+
+Compress an image to 20 KB or 100 KB, resize it, or convert PNG, JPG, WebP and AVIF. It all happens in your browser.
+Compress an image Compress to 50 KB
+
+Compress
+
+### Make images smaller
+
+#### Image Compressor
+
+Compress photos by quality or to an exact file-size limit.
+Open tool →
+
+#### JPEG Compressor
+
+Shrink JPG photos by quality or to an exact file-size limit.
+Open tool →
+
+#### Compress Image to 20KB
+
+Shrink a photo or signature scan to under 20 KB for upload forms.
+Open tool →
+
+#### Compress Image to 50KB
+
+Get a photo or document scan under 50 KB for application and portal uploads.
+Open tool →
+
+#### Compress Image to 100KB
+
+Get a photo under 100 KB for forms, email and web uploads, keeping as much detail as possible.
+Open tool →
+
+Resize and convert
+
+### Change the size or the format
+
+#### Image Resizer
+
+Resize by pixels or percent, keeping the aspect ratio.
+Open tool →
+
+#### PNG to JPG Converter
+
+Convert PNG images to smaller JPG files, with a background for transparency.
+Open tool →
+
+#### JPG to PNG Converter
+
+Convert JPG images to lossless PNG files in your browser.
+Open tool →
+
+#### WebP to JPG Converter
+
+Convert WebP images to widely supported JPG files.
+Open tool →
+
+#### AVIF to JPG Converter
+
+Convert AVIF images to JPG so every app and website accepts them.
+Open tool →
+
+#### Image to JPG Converter
+
+Convert PNG, WebP, AVIF and other images to JPG in one step.
+Open tool →
+
+Why these
+
+### Built for private, practical jobs
+
+#### Your photos stay yours
+
+Images are processed in your browser. They are never uploaded, which matters for ID photos and private pictures.
+
+#### Hit an exact size
+
+Type a limit like 50 KB and the tool finds the best quality that fits, shrinking the picture only if it has to.
+
+#### No sign-up, no watermark
+
+Drop in files, download the results. Several images at once are fine.
+
+Guides
+
+### Understand what happens to the file
+
+#### How to reduce image file size without ruining quality
+
+Dimensions, format, quality and metadata, in the order that matters.
+Read guide →
+
+#### Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit
+
+A step-by-step way to get a photo under a small file-size limit.
+Read guide →
+
+About
+
+### What happens to your picture
+
+Your browser decodes the image, draws it on a canvas and saves it again at the size, dimensions and format you choose, so the picture never leaves your device. The size tools search for the best quality that fits the limit and shrink the dimensions if quality alone is not enough, and every result shows the real file size and pixel dimensions before you download. Lossy compression cannot be undone, so keep your original. The guides cover the form-upload limits that cause most rejections and what each setting does to the file.
+
+
+---
+
+# Image Compressor: Reduce Image Size Online (Free)
+
+URL: https://images.streamerosai.com/image-compressor/
+
+Free · private · runs in your browser
+
+## Image Compressor
+
+Compress JPG, PNG and WebP images in your browser. Set a quality, or a maximum file size in KB. Your photos are never uploaded.
+Drop images here or click to choose JPG, PNG, WebP or AVIF. Files stay on your device. Maximum file size (KB)
+Quality: 75 %
+Output format JPEG (best for photos) WebP (smaller, not accepted everywhere)
+Maximum width (px, optional)
+
+Choose one or more images to start. Nothing is uploaded.
+
+### How to compress an image
+
+- Add one or more images by dropping them in the box or choosing them.
+- Set a quality, or type a maximum file size in KB if a form or website has a limit.
+- Pick the output format: JPEG for compatibility, WebP for a smaller file.
+- Check the new size and pixel dimensions, then press Download for each file.
+
+### What the tool does to your picture
+
+Your browser decodes the file, the tool draws it on a canvas, and the canvas is saved again as a JPEG or WebP. That one path decides what happens to everything else in the file.
+Part of the file What happens here
+File format The output is JPEG or WebP, whatever you add. A PNG you add comes out as JPEG or WebP, not PNG
+Pixel size Unchanged, unless you set a maximum width or a file-size limit forces it down. It is never enlarged
+Transparency JPEG: transparent areas are filled with white. WebP: transparency is kept
+Animation Only a single still is saved
+EXIF and GPS data Not copied. Only pixels are saved
+Rotation The browser applies the EXIF orientation when it reads the file, so the result is the right way up
+
+### Quality or a size limit
+
+There are two ways to use it. With the file-size box empty, the Quality slider sets the encoder quality directly, from 5% to 100%. It starts at 75%.
+If you type a maximum file size in KB, the slider disappears and the tool searches for the highest quality that fits. It tries 95% first, will not go below 35%, and shrinks the width and height in steps of 85%, down to about a tenth, if quality alone is not enough. It counts 1 KB as 1,000 bytes. If nothing fits, it says so and gives you the smallest file it made.
+
+### What makes an image smaller
+
+Four things change a file size, roughly in this order of effect:
+
+- Dimensions: halving the width and height cuts the pixels to a quarter. Use the maximum width option here or the image resizer.
+- Format: JPEG and WebP are usually far smaller than PNG for photos.
+- Quality: a lower quality discards more detail. The savings shrink and the damage grows at the low end.
+- Metadata: re-encoding drops camera data such as EXIF, including location.
+
+### JPEG, WebP or PNG
+
+Pick JPEG when the picture is going to a form, an older program or someone you do not know. Pick WebP for a smaller file when you know the place accepts it. WebP also keeps transparency here. If you need to stay in PNG, this tool cannot do it: the image resizer keeps a PNG as a PNG, and reducing the pixel size is the main way to shrink one.
+Google says lossy WebP files are 25 to 34 percent smaller than comparable JPEGs at equivalent quality. Your own result will vary with the picture.
+JPEG WebP PNG
+Compression Lossy Lossy or lossless Lossless
+Transparency No Yes Yes
+Accepted everywhere Almost Not always Almost
+Available as output here Yes Yes No
+
+### What this tool leaves out
+
+- No PNG output and no PNG optimising.
+- No cropping, rotating or dpi setting. The browser marks files it creates as 96 dpi where the format records it.
+- No colour picker for transparent areas in this mode: they become white in JPEG. The PNG to JPG converter has one.
+- Pictures over 120 million pixels are refused, and very large ones can be slow or fail on a phone.
+- It cannot read formats your browser cannot decode, such as HEIC in most browsers.
+
+### Privacy
+
+The code that reads, shrinks and saves your picture does not call fetch, XMLHttpRequest or a beacon. The browser decodes the file, draws it on a canvas, and the download button points at a temporary link held in your own browser&#x27;s memory. The page loads its own scripts, such as analytics, but none of them is given your picture.
+
+### Need a specific size?
+
+These pages are set to common limits: 20 KB, 50 KB and 100 KB. To compress a JPEG in particular, see the JPEG compressor.
+
+### Guides
+
+- How to reduce image file size without ruining quality: dimensions, format, quality and metadata, in the order that matters.
+- Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit: why forms reject photos and how to check the real requirements.
+
+### Sources
+
+- MDN: Image file type and format guide ( which formats are lossy or lossless, which support transparency and animation, and browser support), checked 16 November 2026.
+- MDN: HTMLCanvasElement.toBlob() ( how a canvas is saved to a file: PNG as the default, quality for lossy formats, and 96 dpi), checked 16 November 2026.
+- MDN: createImageBitmap() ( how the browser reads an image and applies its EXIF orientation by default), checked 16 November 2026.
+- HTML Standard: the canvas element and ImageBitmap ( an animated image drawn on a canvas becomes a single still), checked 16 November 2026.
+- Google: WebP ( WebP is lossy or lossless, can hold transparency in both modes, and can be animated), checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I compress an image without losing quality?
+Some quality is always lost with JPEG and WebP, but a moderate setting, around 75% to 85%, usually looks the same to the eye while cutting the file a lot. Making a very large picture smaller first saves even more.
+
+Is my image uploaded to a server?
+No. The image is decoded and re-encoded in your browser, so it never leaves your device.
+
+Can I compress to an exact size, like 100 KB?
+Yes. Type a maximum file size in KB. The tool finds the highest quality that fits, and reduces the dimensions if quality alone cannot get there. There are also ready-made pages for 20 KB, 50 KB and 100 KB.
+
+Should I choose JPEG or WebP?
+JPEG works everywhere. WebP gives a smaller file at similar quality and keeps transparency, but some older programs and forms do not accept it.
+
+Why did my PNG get a white background?
+A JPEG cannot be transparent, so see-through areas are filled with white. Choose WebP as the output format to keep the transparency, or keep the original PNG.
+
+Can it compress a PNG and keep it a PNG?
+No. The output here is JPEG or WebP. To keep a PNG, reduce its pixel size with the image resizer, which saves a PNG as a PNG.
+
+Does it remove EXIF and location data?
+Yes. The tool saves only the pixels, so camera details and GPS position are not in the result.
+
+Why did my file get bigger?
+A picture that was already well compressed can grow when it is saved again at a higher quality. The result line shows a plus sign when that happens. Lower the quality, or set a file-size limit.
+
+Is there a limit on file size or number of files?
+No count limit is set. Pictures over 120 million pixels are refused, and very large photos use a lot of memory, so a huge file may be slow or fail on a phone.
+
+### Related tools
+
+Compress Image to 100KB Compress Image to 50KB Compress Image to 20KB JPEG Compressor Image Resizer PNG to JPG Converter
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# JPEG Compressor: Reduce JPG File Size Online (No Upload)
+
+URL: https://images.streamerosai.com/jpeg-compressor/
+
+Free · private · runs in your browser
+
+## JPEG Compressor
+
+Reduce the size of JPG photos in your browser. Choose a quality, or set a maximum file size in KB. Your photos are never uploaded.
+Drop images here or click to choose JPG, PNG, WebP or AVIF. The result is a smaller JPEG. Files stay on your device. Maximum file size (KB)
+Quality: 75 %
+Output format JPEG (best for photos) WebP (smaller, not accepted everywhere)
+Maximum width (px, optional)
+
+Choose one or more images to start. Nothing is uploaded.
+
+### How to compress a JPEG
+
+- Add one or more JPEG files, or drop them in the box.
+- Pick a quality, or type a maximum file size in KB if a form or website has a limit.
+- Compare the sizes shown. If a file got bigger, lower the quality.
+- Press Download for each result.
+
+### How JPEG compression works
+
+JPEG is a lossy format based on the discrete cosine transform. It discards fine detail the eye is least likely to notice, mostly small colour and texture changes, and stores what is left. A lower quality discards more, so the file is smaller and the picture is less exact. JPG and JPEG are the same format.
+According to MDN, a JPEG has no transparency and stores 8 bits for each of red, green and blue.
+
+### Choosing a quality
+
+These bands are rules of thumb, not measurements. The number is passed to your browser&#x27;s JPEG encoder, so the same number in another program can give a different file. Judge by the preview and the size shown.
+Quality Typical use
+90% and up Photos you will print or edit again
+75% to 85% Web pages, email and sharing: the best balance
+50% to 70% Thumbnails and strict size limits
+Below 50% Only when nothing else fits; artefacts are visible
+
+### Compressing a JPEG that is already a JPEG
+
+The tool decodes your JPEG to pixels and saves a new JPEG. That is a second lossy save, so a little more detail is discarded each time. Compress from the original camera file when you can, and avoid re-saving the same file many times.
+If the JPEG was already saved at a low quality, saving it again at a higher one can make the file bigger, not smaller. The result line then shows a plus sign next to the percentage. Lower the quality, or type a file-size limit instead.
+
+### Quality slider or a size limit
+
+With the file-size box empty, the Quality slider sets the encoder quality, from 5% to 100%, starting at 75%. If you type a maximum size in KB, the tool tries 95% first, will not go below 35%, and shrinks the width and height in steps of 85%, down to about a tenth, if quality alone cannot reach it. It counts 1 KB as 1,000 bytes. Leave the Output format menu on JPEG for a JPEG result.
+
+### Orientation and metadata
+
+Phone photos often store their rotation in an EXIF tag. The browser applies it when it reads the file, so the saved picture is the right way up and has no orientation tag. EXIF data, including camera model and GPS position, is not copied to the result, because only pixels are saved. If you need to keep it, this tool is the wrong one.
+
+### What this tool leaves out
+
+- No encoder settings other than quality.
+- No cropping, rotating or dpi setting.
+- Transparent areas in a PNG or WebP you add are filled with white.
+- Pictures over 120 million pixels are refused, and very large ones can be slow on a phone.
+
+### Privacy
+
+The code that reads, shrinks and saves your picture does not call fetch, XMLHttpRequest or a beacon. The browser decodes the file, draws it on a canvas, and the download button points at a temporary link held in your own browser&#x27;s memory. The page loads its own scripts, such as analytics, but none of them is given your picture.
+
+Dimensions matter even more than quality: halving the width and height cuts the pixels to a quarter. Use the image resizer first for a big photo, or go straight to a set size with 100 KB, 50 KB or 20 KB.
+
+### Guides
+
+- How to reduce image file size without ruining quality: dimensions, format, quality and metadata, in the order that matters.
+- Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit: why forms reject photos and how to check the real requirements.
+
+### Sources
+
+- MDN: Image file type and format guide ( which formats are lossy or lossless, which support transparency and animation, and browser support), checked 16 November 2026.
+- MDN: HTMLCanvasElement.toBlob() ( how a canvas is saved to a file: PNG as the default, quality for lossy formats, and 96 dpi), checked 16 November 2026.
+- MDN: createImageBitmap() ( how the browser reads an image and applies its EXIF orientation by default), checked 16 November 2026.
+
+### Frequently asked questions
+
+How does JPEG compression work?
+JPEG discards detail the eye is least likely to notice, mostly fine colour and texture, and stores what is left efficiently. A lower quality discards more, so the file is smaller and the picture is less exact.
+
+What quality should I use for a JPEG?
+Around 75% to 85% is a sensible starting point for photos: much smaller than the original with little visible change. Below about 50%, blocky artefacts around edges become easy to see.
+
+Can I compress a JPEG to an exact size like 100 KB?
+Yes. Type a maximum file size in KB. The tool finds the highest quality that fits and reduces the dimensions in steps if quality alone is not enough.
+
+Does compressing a JPEG again make it worse?
+Yes. Every lossy save discards a little more detail, so compress from the original file when you can and avoid re-saving the same JPEG many times.
+
+Why did my JPEG get bigger after compressing?
+If it was already saved at a low quality, a new save at a higher quality stores more data. Lower the quality or set a file-size limit.
+
+Is JPG the same as JPEG?
+Yes. They are the same format, and the tool saves files with the.jpg extension.
+
+Does the JPEG keep its camera and location data?
+No. The saved file has no EXIF, GPS or camera details, only pixels. The picture is turned the right way up first.
+
+Is my photo uploaded?
+No. The JPEG is decoded and re-encoded in your browser and never leaves your device.
+
+### Related tools
+
+Compress Image to 100KB Compress Image to 50KB Image Compressor Image Resizer Image to JPG Converter
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Compress Image to 20KB Online: Photo or Signature, No Upload
+
+URL: https://images.streamerosai.com/compress-image-to-20kb/
+
+Free · private · runs in your browser
+
+## Compress Image to 20KB
+
+Drop in a photo or a signature scan and get a JPEG under 20 KB. The tool lowers quality first and shrinks the dimensions only if it has to.
+Drop images here or click to choose JPG, PNG, WebP or AVIF. The result is a JPEG under the limit. Files stay on your device. Maximum file size (KB)
+Output format JPEG (best for photos) WebP (smaller, not accepted everywhere)
+Maximum width (px, optional)
+
+Choose one or more images to start. Nothing is uploaded.
+
+### How to compress an image to 20 KB
+
+- Add your photo or signature scan. It stays on your device.
+- Leave the maximum file size at 20 KB. If the form also gives a width in pixels, resize the picture to that first with the image resizer.
+- Check the size and the pixel dimensions shown under the result. A signature should still be readable in the preview.
+- Press Download. The file is saved as a JPEG with -compressed added to its name.
+
+### What 20 KB means
+
+Here 20 KB is 20,000 bytes. The tool counts 1 KB as 1,000 bytes, so a file that passes is also under 20 KB on a form that counts 1,024 bytes per KB.
+An uncompressed picture with 8 bits for each of red, green and blue needs 3 bytes per pixel. JPEG stores far less than that, but the budget still shrinks fast as the picture gets bigger. This table shows how many bytes each pixel gets if the whole file is 20,000 bytes. It is arithmetic, not a prediction: what a real picture needs depends on its content.
+Picture size (px) Pixels Bytes per pixel allowed
+100 x 100 10,000 2.0
+200 x 200 40,000 0.50
+300 x 300 90,000 0.22
+600 x 600 360,000 0.056
+1200 x 900 1,080,000 0.019
+4000 x 3000 12,000,000 0.0017
+
+### How the tool gets to 20 KB
+
+The tool first saves at 95% quality at the full size, and stops if that already fits. Otherwise it checks 35% quality, the lowest it will go. If 35% fits, it searches between 35% and 95% for the highest quality that still fits. If 35% does not fit, it shrinks the width and height to 85% and repeats, down to about a tenth of the original size.
+Because a 20 KB limit is so tight, most phone photos end up in the shrink step. The result card shows the final pixel size and quality, so you can see which of the two did the work.
+
+### Signature or photo: which reaches 20 KB
+
+A scan of a signature on white paper is mostly flat white with a few dark strokes. JPEG usually handles flat areas cheaply, so a signature tends to fit at a reasonable size. A photo of a face is full of fine texture, so it has to be made small before 20 KB is possible.
+If the picture is a photo with a busy background, crop to the face before you compress. Fewer pixels to store is the one change that always helps.
+
+- Signature: scan or photograph it on plain white paper, crop close to the strokes, then compress.
+- Passport-style photo: crop to head and shoulders first, then compress.
+- Check the preview. If a signature looks broken or a face is mush, the dimensions went too low; crop tighter and try again.
+
+### When 20 KB cannot be reached
+
+The tool never goes below 35% quality and stops shrinking at about a tenth of the width and height. If even that is over 20 KB, it shows a warning and gives you the smallest file it made. That happens with large, detailed pictures.
+
+- Crop away everything you do not need.
+- Use the image resizer to set a small width, then run the result through this tool.
+- Use a plainer background. Smooth areas cost fewer bytes than texture.
+- Check whether the form really needs 20 KB. The guide on form size limits shows how to read the real requirement.
+
+### Check the form&#x27;s other rules
+
+A file under the limit can still be rejected. Look for a required width and height in pixels, a required file type, and whether the limit is a maximum or a range with a minimum. This tool saves a JPEG named.jpg by default. It cannot set a dpi value: the browser marks files it creates as 96 dpi where the format records resolution.
+
+### Privacy
+
+The code that reads, shrinks and saves your picture does not call fetch, XMLHttpRequest or a beacon. The browser decodes the file, draws it on a canvas, and the download button points at a temporary link to the result held in your own browser&#x27;s memory. The page does load its own scripts, such as analytics, but none of them is given your picture.
+Camera details such as EXIF, including any GPS location, are not copied to the new file. The tool draws the pixels onto a canvas and saves the canvas, and it never reads or writes metadata. The picture is turned the right way up first, because the browser applies the EXIF orientation when it reads the file.
+
+### What this tool leaves out
+
+- It saves a JPEG unless you pick WebP, and forms often need JPG.
+- Transparent areas are filled with white. There is no colour picker in this mode; use the PNG to JPG converter if you need another background colour.
+- It cannot crop, rotate or set dpi.
+- It cannot read formats your browser cannot decode, such as HEIC in most browsers.
+- Pictures over 120 million pixels are refused, and very large ones can be slow on a phone.
+
+### Guides
+
+- How to reduce image file size without ruining quality: dimensions, format, quality and metadata, in the order that matters.
+- Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit: why forms reject photos and how to check the real requirements.
+
+### Sources
+
+- MDN: HTMLCanvasElement.toBlob() ( how a canvas is saved to a file: PNG as the default, quality for lossy formats, and 96 dpi), checked 16 November 2026.
+- MDN: createImageBitmap() ( how the browser reads an image and applies its EXIF orientation by default), checked 16 November 2026.
+- MDN: Image file type and format guide ( which formats are lossy or lossless, which support transparency and animation, and browser support), checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I compress an image to 20 KB?
+Add the image, leave the maximum file size at 20 KB, and press Download. The tool saves at the highest JPEG quality that fits and shrinks the picture in steps if quality alone is not enough.
+
+How do I get a signature under 20 KB?
+Scan or photograph it on plain white paper, crop close to the writing, then add it here. Flat white with thin dark strokes is much easier to shrink than a photo.
+
+Will a photo still look good at 20 KB?
+At this size you trade detail for file size. A small face crop can stay clear; a large landscape will look soft. Crop before compressing and check the preview.
+
+Why does the tool say it could not reach 20 KB?
+It tried quality down to 35% and sizes down to about a tenth of the original width and height, and the file was still bigger than 20,000 bytes. Crop the picture, or resize it smaller first.
+
+Is 20 KB counted as 20,000 or 20,480 bytes?
+The tool aims for under 20,000 bytes. That file is also under 20 KB when a form counts 1,024 bytes per KB.
+
+The file is under 20 KB but the form still rejects it. Why?
+Check the pixel size, the file type and any minimum size. Also check the file name: some forms accept only certain extensions.
+
+Does it keep my EXIF or location data?
+No. The tool saves only the pixels, so camera details and GPS data are not in the result.
+
+Is my photo uploaded to a server?
+No. The picture is decoded and re-encoded in your browser and never sent anywhere, which matters for ID-style photos.
+
+### Related tools
+
+Image Resizer Compress Image to 50KB Image Compressor JPEG Compressor PNG to JPG Converter
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Compress Image to 50KB Online: ID Photo or Document Scan
+
+URL: https://images.streamerosai.com/compress-image-to-50kb/
+
+Free · private · runs in your browser
+
+## Compress Image to 50KB
+
+Drop in a photo or a scanned document and get a JPEG under 50 KB. The tool keeps quality as high as the limit allows and shrinks the picture only when it must.
+Drop images here or click to choose JPG, PNG, WebP or AVIF. The result is a JPEG under the limit. Files stay on your device. Maximum file size (KB)
+Output format JPEG (best for photos) WebP (smaller, not accepted everywhere)
+Maximum width (px, optional)
+
+Choose one or more images to start. Nothing is uploaded.
+
+### How to compress an image to 50 KB
+
+- Add your photo or scan. It stays on your device.
+- Leave the maximum file size at 50 KB. Crop off borders and desk first if you can, since the tool does not crop.
+- Press Download and open the file. For a document, zoom in and check that the text is still readable.
+- If the text is blurry, try a tighter crop, or check whether the portal accepts a larger file.
+
+### What 50 KB gives you
+
+50 KB is 50,000 bytes here, 2.5 times the room of a 20 KB limit. That is enough for a small portrait or one page of a scan at modest size. This table shows how many bytes each pixel gets at several sizes. It is plain division, not a quality promise.
+Picture size (px) Pixels Bytes per pixel allowed
+200 x 200 40,000 1.3
+300 x 400 120,000 0.42
+600 x 800 480,000 0.10
+1000 x 750 750,000 0.067
+1654 x 2339 3,868,706 0.013
+4000 x 3000 12,000,000 0.0042
+
+### Worked example: from a phone photo to 50 KB
+
+A 4000 x 3000 photo has 12,000,000 pixels. Scaled to 25% on each side it is 1000 x 750, which is 750,000 pixels, 16 times fewer. 50,000 bytes over 750,000 pixels is about 0.067 bytes per pixel, so a plain, soft subject may fit at that size and a detailed one may not. The tool tries smaller sizes in steps and stops at the first that fits, so it finds the balance for you.
+The tool first saves at 95% quality at the full size, and stops if that already fits. Otherwise it checks 35% quality, the lowest it will go. If 35% fits, it searches between 35% and 95% for the highest quality that still fits. If 35% does not fit, it shrinks the width and height to 85% and repeats, down to about a tenth of the original size.
+
+### Photos and document scans behave differently
+
+A portrait has smooth skin and soft shapes, which JPEG usually compresses well. A scanned page is the harder case: sharp black text on white shows fuzz around the letters when JPEG quality is low, and shrinking the page makes small print unreadable.
+
+- For a document, scan only the area you need, and keep scans straight so the page fills the frame.
+- Do not photograph a page from far away. Wasted background uses up the byte budget.
+- For several pages, add them together: every file gets its own 50 KB limit, its own result line and its own download button.
+
+### When 50 KB is not reachable
+
+The tool never goes below 35% quality and stops shrinking at about a tenth of the original width and height. If the result is still over 50,000 bytes it warns you and gives you the smallest file it made.
+
+- A very detailed picture, such as a crowd or foliage, is hard to fit.
+- A tight crop is the best fix because it removes pixels outright.
+- If a document page needs to stay legible, ask whether the portal accepts a PDF or a higher limit instead.
+
+### Checks before you upload
+
+Read the form&#x27;s own rules for pixel size, file type and minimum size. This tool saves a JPEG by default, named.jpg. The WebP choice makes smaller files, but many forms do not accept WebP, so leave JPEG selected for forms. A WebP save also needs your browser to support WebP encoding; if it does not, the tool shows an error.
+
+### Privacy
+
+The code that reads, shrinks and saves your picture does not call fetch, XMLHttpRequest or a beacon. The browser decodes the file, draws it on a canvas, and the download button points at a temporary link to the result held in your own browser&#x27;s memory. The page does load its own scripts, such as analytics, but none of them is given your picture.
+Identity photos and scans are sensitive, which is why processing in the browser matters here. The saved file carries no EXIF or location data, because only pixels are written.
+
+### What this tool leaves out
+
+- No cropping, rotating or deskewing.
+- No dpi setting. The browser marks a file it creates as 96 dpi where the format records it.
+- No PDF output, and no multi-page documents.
+- Transparent areas are filled with white.
+
+### Guides
+
+- How to reduce image file size without ruining quality: dimensions, format, quality and metadata, in the order that matters.
+- Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit: why forms reject photos and how to check the real requirements.
+
+### Sources
+
+- MDN: HTMLCanvasElement.toBlob() ( how a canvas is saved to a file: PNG as the default, quality for lossy formats, and 96 dpi), checked 16 November 2026.
+- MDN: createImageBitmap() ( how the browser reads an image and applies its EXIF orientation by default), checked 16 November 2026.
+- MDN: Image file type and format guide ( which formats are lossy or lossless, which support transparency and animation, and browser support), checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I compress an image to 50 KB?
+Add the image, leave the maximum file size at 50 KB, and download the result. The tool picks the highest quality that fits, and shrinks the dimensions if it has to.
+
+How do I compress a scanned document to 50 KB?
+Crop the scan to the page, add it here and check that the text is still readable. If it is blurry, try a tighter crop or ask whether the portal takes a larger file.
+
+Why does my text look fuzzy after compressing?
+JPEG is built for photos. At low quality it smears sharp edges, and when the page is also made smaller the letters lose detail. A larger limit or a tighter crop helps more than lowering quality.
+
+Can I compress several files to 50 KB at once?
+Yes. Select them together. Each file is compressed to its own 50 KB limit and gets its own download button.
+
+What if my original is already under 50 KB?
+You may not need the tool. If you still run it, the picture is re-saved as a JPEG at high quality, so the result can differ in size from the original.
+
+Should I pick WebP to get under 50 KB more easily?
+WebP makes smaller files, but most upload forms ask for JPG or PNG. Use WebP only if the site says it accepts it.
+
+Does it remove EXIF and location data?
+Yes. Only pixels are saved, so the result has no camera details or GPS position.
+
+Is anything uploaded?
+No. The picture is processed in your browser tab and never sent to a server.
+
+### Related tools
+
+Compress Image to 20KB Compress Image to 100KB Image Resizer Image Compressor JPEG Compressor
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Compress Image to 100KB Online: Keep Quality, No Upload
+
+URL: https://images.streamerosai.com/compress-image-to-100kb/
+
+Free · private · runs in your browser
+
+## Compress Image to 100KB
+
+Drop in a photo and get a JPEG under 100 KB. At this size the tool can usually keep a lot of detail, so it works mainly by choosing the quality.
+Drop images here or click to choose JPG, PNG, WebP or AVIF. The result is a JPEG under the limit. Files stay on your device. Maximum file size (KB)
+Output format JPEG (best for photos) WebP (smaller, not accepted everywhere)
+Maximum width (px, optional)
+
+Choose one or more images to start. Nothing is uploaded.
+
+### How to compress an image to 100 KB
+
+- Add your photo. It stays on your device.
+- Leave the maximum file size at 100 KB. Leave Maximum width empty unless you want a smaller picture anyway.
+- Read the result line: it shows the new size, the pixel size and the quality used. If the pixel size matches the original, only quality changed.
+- Press Download.
+
+### What 100 KB gives you
+
+100 KB is 100,000 bytes here, twice the room of 50 KB. It suits profile pictures, web uploads, email attachments and forms with a moderate limit. This table shows the bytes each pixel gets at different sizes. It is arithmetic only.
+Picture size (px) Pixels Bytes per pixel allowed
+400 x 400 160,000 0.63
+800 x 600 480,000 0.21
+1280 x 720 921,600 0.11
+1920 x 1080 2,073,600 0.048
+3000 x 2000 6,000,000 0.017
+4000 x 3000 12,000,000 0.0083
+
+### Quality first, size second
+
+The tool first saves at 95% quality at the full size, and stops if that already fits. Otherwise it checks 35% quality, the lowest it will go. If 35% fits, it searches between 35% and 95% for the highest quality that still fits. If 35% does not fit, it shrinks the width and height to 85% and repeats, down to about a tenth of the original size.
+With 100 KB, a modest picture often fits at full size, so it keeps its pixels and only the quality drops. A big camera photo usually does not, and the tool shrinks it in steps.
+When you want control over the look, set a maximum width yourself. A smaller picture at high quality can look better on screen than a large picture at low quality.
+
+### JPEG or WebP
+
+The Output format menu has JPEG and WebP. JPEG is accepted almost everywhere. Google says lossy WebP files are 25 to 34 percent smaller than comparable JPEGs at equivalent quality, so more detail may fit under 100 KB. Check that the site you are uploading to accepts WebP before you choose it.
+In this tool a WebP save keeps transparent areas, while a JPEG save fills them with white.
+
+### When 100 KB is not reachable
+
+The tool never goes below 35% quality and stops shrinking at about a tenth of the width and height. A picture that is still too big after that gets a warning and the smallest result. This is rare at 100 KB, but a huge, detailed picture can do it.
+
+### Orientation and metadata
+
+Phone photos often store their rotation as an EXIF tag. The browser reads that tag and draws the picture the right way up, and the tool saves the rotated pixels without the tag. EXIF and GPS data are not copied to the result.
+
+### Privacy
+
+The code that reads, shrinks and saves your picture does not call fetch, XMLHttpRequest or a beacon. The browser decodes the file, draws it on a canvas, and the download button points at a temporary link to the result held in your own browser&#x27;s memory. The page does load its own scripts, such as analytics, but none of them is given your picture.
+
+### What this tool leaves out
+
+- No cropping, rotating or dpi setting.
+- No PNG output. A PNG you add is saved as a JPEG or WebP, and JPEG fills transparency with white.
+- No promise about sharpness for print.
+- Pictures over 120 million pixels are refused.
+
+### Guides
+
+- How to reduce image file size without ruining quality: dimensions, format, quality and metadata, in the order that matters.
+- Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit: why forms reject photos and how to check the real requirements.
+
+### Sources
+
+- MDN: HTMLCanvasElement.toBlob() ( how a canvas is saved to a file: PNG as the default, quality for lossy formats, and 96 dpi), checked 16 November 2026.
+- MDN: createImageBitmap() ( how the browser reads an image and applies its EXIF orientation by default), checked 16 November 2026.
+- Google: WebP ( WebP is lossy or lossless, can hold transparency in both modes, and can be animated), checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I compress an image to 100 KB?
+Add the image, leave the maximum file size at 100 KB, and download the result. The tool searches for the highest quality that fits and shrinks the picture only if it must.
+
+Will my photo keep its pixel size?
+Often yes at 100 KB, because lowering quality is enough. The result line shows the pixel size so you can check. A very large photo will be shrunk.
+
+What quality will I get?
+The tool tries 95% first and goes down only as far as needed. The result line shows the quality it used.
+
+Should I choose JPEG or WebP for 100 KB?
+Choose JPEG when the destination needs JPG or you are not sure. Choose WebP only if it is accepted, for a smaller file at similar quality.
+
+What happens to a transparent PNG?
+With JPEG the transparent areas turn white. With WebP they stay transparent. If you need a different background colour, use the PNG to JPG converter.
+
+Is 100 KB counted as 100,000 or 102,400 bytes?
+The tool aims for under 100,000 bytes, which also fits a form that counts 1,024 bytes per KB.
+
+Does it remove location data from my photo?
+Yes. Only pixels are saved, so GPS and other camera data are gone from the result.
+
+Is the image uploaded anywhere?
+No. It is processed in your browser and never leaves your device.
+
+### Related tools
+
+Compress Image to 50KB Image Compressor Image Resizer JPEG Compressor Image to JPG Converter
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Image Resizer: Resize Photo by Pixels or Percent (No Upload)
+
+URL: https://images.streamerosai.com/image-resizer/
+
+Free · private · runs in your browser
+
+## Image Resizer
+
+Resize images by width, height or percentage, keeping the aspect ratio. It runs in your browser, so your photos are never uploaded.
+Drop images here or click to choose JPG, PNG, WebP or AVIF. Files stay on your device. Width (px)
+Height (px)
+Or scale by (%)
+Keep aspect ratio
+Choose one or more images to start. Nothing is uploaded.
+
+### How to resize an image
+
+- Add your image.
+- Enter a width or a height in pixels, or a percentage to scale by.
+- Keep Keep aspect ratio ticked so the picture is not stretched. The new size is shown under the result.
+- Press Download.
+
+### The calculation
+
+With Keep aspect ratio on, the tool works out the missing side from the one you give: new height = original height x (new width / original width). The result is rounded to whole pixels.
+Example: a 4000 x 3000 photo has 12,000,000 pixels. These are the sizes you get from it.
+You enter Result (px) Pixels
+Width 1920 1920 x 1440 2,764,800
+Width 1280 1280 x 960 1,228,800
+Width 800 800 x 600 480,000
+Width 400 400 x 300 120,000
+50% 2000 x 1500 3,000,000
+25% 1000 x 750 750,000
+10% 400 x 300 120,000
+
+### Width, height, both, or a percentage
+
+Unlike the compressor&#x27;s maximum width, the resizer will also enlarge a picture if you ask for a bigger size. That only stretches the existing pixels and does not add detail.
+
+- One side only, ratio kept: the other side follows, and the picture is not stretched.
+- Both sides, ratio kept: the picture is fitted inside that box, so one side can come out smaller than you typed.
+- Both sides, ratio not kept: the picture is stretched to exactly that size.
+- One side only, ratio not kept: the tool asks for both sides.
+- A percentage: both sides are scaled by it. Typing in a percentage clears the width and height boxes, and typing a width or height clears the percentage.
+
+### What format you get back
+
+So a resized PNG stays a PNG, and its file can still be large. To turn the result into a smaller JPEG, run it through the image compressor or the PNG to JPG converter.
+You add You get
+JPEG JPEG at 92% quality
+WebP WebP at 92% quality
+PNG PNG, lossless, with transparency kept
+Anything else (AVIF, GIF and so on) PNG, a single still
+
+### Quality, metadata and dpi
+
+The tool asks the browser for high-quality smoothing when it scales the picture. A JPEG or WebP is saved again, so a little more detail is discarded. Only pixels are saved, so EXIF and GPS data are not copied. The browser applies the EXIF rotation when it reads the file, so the result is the right way up.
+The tool sets pixels, not print size. The browser marks files it creates as 96 dpi where the format records it, so you cannot ask for 300 dpi here.
+
+### Resizing for a file-size limit
+
+If a form wants both a pixel size and a small file, resize first, then run the result through the compressor with a maximum size. Fewer pixels is the largest single saving: halving both sides leaves a quarter of the pixels.
+
+### What this tool leaves out
+
+- No cropping or rotating, and no preset sizes for social networks or forms.
+- No dpi or print-size setting.
+- It cannot read formats your browser cannot decode, such as HEIC in most browsers.
+- Pictures over 120 million pixels are refused, and very large ones can be slow on a phone.
+
+### Privacy
+
+The code that reads, scales and saves your picture does not call fetch, XMLHttpRequest or a beacon. The browser decodes the file, draws it on a canvas at the new size, and the download button points at a temporary link held in your own browser&#x27;s memory. The page loads its own scripts, such as analytics, but none of them is given your picture.
+
+For a form with a size limit in KB, see how to get a photo under a form&#x27;s size limit.
+
+### Guides
+
+- How to reduce image file size without ruining quality: dimensions, format, quality and metadata, in the order that matters.
+- Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit: why forms reject photos and how to check the real requirements.
+
+### Sources
+
+- MDN: Image file type and format guide ( which formats are lossy or lossless, which support transparency and animation, and browser support), checked 16 November 2026.
+- MDN: HTMLCanvasElement.toBlob() ( how a canvas is saved to a file: PNG as the default, quality for lossy formats, and 96 dpi), checked 16 November 2026.
+- MDN: createImageBitmap() ( how the browser reads an image and applies its EXIF orientation by default), checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I resize an image to a specific size in pixels?
+Enter the width, the height, or both, and download the result. With Keep aspect ratio ticked, entering one side works out the other so the picture is not stretched.
+
+What happens if I enter both a width and a height?
+With Keep aspect ratio on, the image is fitted inside that box without distortion, so one side may come out smaller than you typed. Untick it to force the exact size, which can stretch the picture.
+
+Can I resize by percentage?
+Yes. Enter a percentage in Or scale by. 50 makes the image half as wide and half as tall, which is a quarter of the pixels.
+
+Will making an image bigger improve it?
+No. Enlarging only stretches existing pixels, so it looks softer. Resize down whenever you can, and start from the highest-resolution original.
+
+Does resizing change the file size?
+Usually a lot, because fewer pixels means a smaller file. A PNG stays a PNG, though, so it can still be large. To hit an exact file size as well, resize first and then use the image compressor.
+
+Which format do I get back?
+A JPEG stays a JPEG and a WebP stays a WebP, both at 92% quality. A PNG stays a PNG. Any other format becomes a PNG.
+
+Can I set the dpi of the resized image?
+No. The tool sets the pixel size only. The browser marks the file it creates as 96 dpi where the format records resolution.
+
+Is my image uploaded?
+No. Resizing happens in your browser and the file never leaves your device.
+
+### Related tools
+
+Image Compressor Compress Image to 50KB PNG to JPG Converter WebP to JPG Converter JPEG Compressor
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# PNG to JPG Converter: Set Background & Quality (No Upload)
+
+URL: https://images.streamerosai.com/png-to-jpg/
+
+Free · private · runs in your browser
+
+## PNG to JPG Converter
+
+Convert PNG images to JPG in your browser. Pick the quality and the background colour that replaces transparent areas.
+Drop images here or click to choose PNG images (other formats work too). Files stay on your device. Quality: 92 %
+Background for transparent areas
+
+Choose one or more images to start. Nothing is uploaded.
+
+### How to convert PNG to JPG
+
+- Add one or more PNG files. They are converted on your device and never uploaded.
+- If your PNG has see-through areas, pick the background colour. White is the default; choose the colour of the page the picture will sit on if it matters.
+- Set the quality. It starts at 92%. Lower it for a smaller file, and compare the size shown.
+- Press Download on each result. The file is named like logo-converted.jpg.
+
+### PNG and JPG compared
+
+PNG keeps every pixel exactly. JPG discards fine detail the eye is least likely to notice, which is why a photo is usually much smaller as a JPG.
+PNG JPG
+Compression Lossless Lossy
+Transparency Yes (alpha channel) No
+Best for Graphics, logos, text, screenshots, images you will edit again Photographs you only need to share
+Typical effect on a photo Large file, exact pixels Smaller file, some detail discarded
+
+### What happens to transparent areas
+
+JPG cannot be transparent. Before drawing your PNG, the tool paints the whole canvas with the background colour you chose, then draws the PNG on top. Fully transparent pixels become that colour. Semi-transparent pixels, such as a soft shadow or an anti-aliased edge, are blended with it.
+That blend is why a logo with a smooth edge can show a faint halo if you convert it on white and then place it on a dark page. Pick the colour of the destination instead.
+
+### Quality and file size
+
+The slider runs from 30% to 100% and starts at 92%. A lower number makes a smaller file and discards more detail. The quality value is passed to your browser&#x27;s JPEG encoder, so the same number in another program can give a different file.
+A JPG is not always smaller. For flat graphics, text and screenshots with sharp edges, the PNG can be as small or smaller, and sharper. Compare the two sizes the tool shows before you replace your original.
+
+### When to keep the PNG
+
+- The picture has transparency you still need.
+- It is a logo, icon, diagram or screenshot with sharp lines and text.
+- You will edit it again. Every JPG save discards more detail.
+
+### What this converter leaves out
+
+- An animated PNG (APNG) becomes a single still, because a canvas holds one picture and JPG cannot be animated.
+- The tool saves only pixels. It never reads or writes metadata, so camera details, GPS position and text notes stored in the original are not copied to the new file. If the original had an EXIF rotation tag, the browser applies it when it reads the picture, so the result is the right way up.
+- The picture keeps its pixel size. To make it smaller, use the image resizer afterwards.
+- To hit a size such as 100 KB, use the compress pages: they pick the quality for you.
+
+### Privacy
+
+The conversion code does not call fetch, XMLHttpRequest or a beacon. The browser decodes the file, the tool draws it on a canvas and saves the canvas, and the download button points at a temporary link held in your own browser&#x27;s memory. The page loads its own scripts, such as analytics, but none of them is given your picture.
+
+### Guides
+
+- How to reduce image file size without ruining quality: dimensions, format, quality and metadata, in the order that matters.
+- Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit: why forms reject photos and how to check the real requirements.
+
+### Sources
+
+- MDN: Image file type and format guide ( which formats are lossy or lossless, which support transparency and animation, and browser support), checked 16 November 2026.
+- MDN: HTMLCanvasElement.toBlob() ( how a canvas is saved to a file: PNG as the default, quality for lossy formats, and 96 dpi), checked 16 November 2026.
+- MDN: createImageBitmap() ( how the browser reads an image and applies its EXIF orientation by default), checked 16 November 2026.
+- HTML Standard: the canvas element and ImageBitmap ( an animated image drawn on a canvas becomes a single still), checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I convert PNG to JPG?
+Add the PNG files, adjust the quality if you want, and download the JPGs. The conversion runs in your browser, so nothing is uploaded.
+
+What happens to the transparent background?
+JPG has no transparency, so transparent pixels are painted with the background colour you pick. It is white by default.
+
+Why does my logo have a halo after converting?
+Soft edges are partly transparent, and they are blended with the background colour you chose. Convert again with the colour of the page the logo will sit on.
+
+Will converting reduce quality?
+JPG is lossy, so some detail is discarded. At a quality around 90% the difference is usually hard to see for photos. For text and sharp lines it is easier to notice.
+
+Is a JPG always smaller than a PNG?
+For photos it usually is. For flat graphics, logos and text, a PNG can be as small or smaller, so check the sizes shown.
+
+Is the JPG the same pixel size as the PNG?
+Yes. The tool does not resize. Use the image resizer if you need fewer pixels.
+
+Can I convert many PNG files at once?
+Yes. Select several files and each is converted and listed with its own download button.
+
+Does it keep metadata from the PNG?
+No. Only pixels are saved, so text chunks and other metadata are not in the JPG.
+
+### Related tools
+
+Image to JPG Converter Image Compressor Image Resizer JPG to PNG Converter WebP to JPG Converter
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# JPG to PNG Converter: Lossless PNG Copy, No Upload
+
+URL: https://images.streamerosai.com/jpg-to-png/
+
+Free · private · runs in your browser
+
+## JPG to PNG Converter
+
+Convert JPG images to PNG in your browser. The PNG is lossless, so it will not lose any more detail when you edit and save it again.
+Drop images here or click to choose JPG images (other formats work too). Files stay on your device.
+Choose one or more images to start. Nothing is uploaded.
+
+### How to convert JPG to PNG
+
+- Add one or more JPG files. They are converted on your device and never uploaded.
+- There are no options to set: PNG is lossless, so there is no quality slider.
+- Check the new size next to the old one. Expect the PNG to be larger.
+- Press Download on each result. The file is named like photo-converted.png.
+
+### What a PNG copy of a JPG is, and is not
+
+The tool decodes the JPG into pixels and saves those pixels as a PNG. PNG is lossless, so nothing more is lost from that point. The detail the JPG already discarded when it was made does not come back, and the blocky patches some JPGs show stay in the PNG.
+A JPG has no transparency, so the PNG has the same solid background. The tool does not remove backgrounds.
+JPG you add PNG you get
+Pixels As stored The same decoded pixels
+Detail already lost Lost Still lost
+Further loss when you edit and save again Yes, each save No
+Transparency None None added
+File size Smaller Usually larger
+
+### Why you might still want PNG
+
+- A site or form asks for PNG only.
+- You will edit the picture several times and want no more loss from saving.
+- The picture is a screenshot or graphic that was saved as JPG, and you want a safe working copy.
+- Your editing tool handles PNG better than JPG.
+
+### Why the PNG is bigger
+
+PNG compresses without throwing anything away, while JPG compresses by discarding detail. For a photo that usually means a much larger PNG. The tool shows both sizes so you can see it. This is also why PNG is the wrong choice when a form has a small size limit: use the compress pages, which save a JPEG.
+
+### How this tool saves the PNG
+
+The picture keeps its pixel size. The browser&#x27;s PNG encoder is used with no quality setting, so there is nothing to tune, and the background colour option you see on other converters does not apply here. Where the format records resolution, your browser marks the file as 96 dpi.
+The tool saves only pixels. It never reads or writes metadata, so camera details, GPS position and text notes stored in the original are not copied to the new file. If the original had an EXIF rotation tag, the browser applies it when it reads the picture, so the result is the right way up.
+
+### What this converter leaves out
+
+- It does not restore quality, sharpen, or remove JPG artefacts.
+- It does not cut out backgrounds or add transparency.
+- It does not shrink the PNG. Use the image resizer to reduce the pixel size.
+
+### Privacy
+
+The conversion code does not call fetch, XMLHttpRequest or a beacon. The browser decodes the file, the tool draws it on a canvas and saves the canvas, and the download button points at a temporary link held in your own browser&#x27;s memory. The page loads its own scripts, such as analytics, but none of them is given your picture.
+
+### Guides
+
+- How to reduce image file size without ruining quality: dimensions, format, quality and metadata, in the order that matters.
+- Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit: why forms reject photos and how to check the real requirements.
+
+### Sources
+
+- MDN: Image file type and format guide ( which formats are lossy or lossless, which support transparency and animation, and browser support), checked 16 November 2026.
+- MDN: HTMLCanvasElement.toBlob() ( how a canvas is saved to a file: PNG as the default, quality for lossy formats, and 96 dpi), checked 16 November 2026.
+- MDN: createImageBitmap() ( how the browser reads an image and applies its EXIF orientation by default), checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I convert JPG to PNG?
+Add the JPG files and download the PNGs. The conversion happens in your browser and nothing is uploaded.
+
+Does converting JPG to PNG improve quality?
+No. The detail lost when the JPG was made stays lost. PNG only stops further loss when you edit and save again.
+
+Will the PNG have a transparent background?
+No. A JPG has no transparency, so the PNG has the same solid background. Removing a background needs an editing tool.
+
+Why is the PNG so much bigger?
+PNG is lossless and stores the pixels exactly, while JPG discards detail to save space. For photos the PNG is usually much larger.
+
+Is there a quality setting?
+No. PNG has no quality setting here, because nothing is discarded.
+
+When should I use PNG instead of JPG?
+For graphics, logos, text and screenshots with sharp edges, for images with transparency, and for images you will edit many times. Use JPG for photos you only need to share.
+
+Can I make the PNG smaller afterwards?
+You can reduce the pixel size with the image resizer. To fit a small file-size limit, go back to a JPEG with the compress pages instead.
+
+Does the PNG keep the camera data from the JPG?
+No. Only pixels are saved, so EXIF and GPS data are not in the PNG.
+
+### Related tools
+
+PNG to JPG Converter Image Resizer Image Compressor Image to JPG Converter WebP to JPG Converter
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# WebP to JPG Converter: Open WebP Anywhere (No Upload)
+
+URL: https://images.streamerosai.com/webp-to-jpg/
+
+Free · private · runs in your browser
+
+## WebP to JPG Converter
+
+Convert WebP images to JPG in your browser, so they open in any program and upload to any form.
+Drop images here or click to choose WebP images (other formats work too). Files stay on your device. Quality: 92 %
+Background for transparent areas
+
+Choose one or more images to start. Nothing is uploaded.
+
+### How to convert WebP to JPG
+
+- Add the.webp files you saved from a website. They are converted on your device and never uploaded.
+- If the WebP has transparent areas, pick the background colour that replaces them. White is the default.
+- Keep the quality at 92%, or lower it for a smaller file.
+- Press Download on each result. The file is named like image-converted.jpg and opens in any program that reads JPG.
+
+### Why you got a WebP file
+
+Many sites serve WebP because it makes smaller files. Google says lossy WebP files are 25 to 34 percent smaller than comparable JPEGs at equivalent quality. When you save such a picture, the browser saves what the site sent, so you get a.webp file.
+WebP is not new: according to MDN, it works in all versions of Chrome, Edge, Firefox, Opera and Safari. On Safari for macOS it needs Safari 14 or later on macOS Big Sur or newer. Older editors, some upload forms, and many email and document tools still do not accept it.
+
+### WebP and JPG compared
+
+WebP JPG
+Compression Lossy or lossless Lossy
+Transparency Yes, in both modes No
+Animation Yes No
+Accepted by older software and forms Not always Almost always
+
+### Animated and transparent WebP
+
+An animated WebP becomes a single still picture. A canvas draws an animated image as its default image, or its first frame, so the JPG shows one frame and the motion is gone.
+A WebP with transparency is flattened. The tool paints the background colour you chose and draws the WebP over it, so transparent areas take that colour. Choose the colour of the place you will use the image.
+
+### What to expect from the file
+
+If the WebP was lossy, this is a second lossy save, so a little more detail is discarded. At 92% that is usually hard to see for photos. The JPG is also likely to be larger than the WebP, since the same picture often takes more bytes in JPG.
+The tool keeps the pixel size. If the JPG is too large for a form, add it to the compress pages afterwards.
+
+### What this converter leaves out
+
+- No animation. Only a still is saved.
+- The tool saves only pixels. It never reads or writes metadata, so camera details, GPS position and text notes stored in the original are not copied to the new file. If the original had an EXIF rotation tag, the browser applies it when it reads the picture, so the result is the right way up.
+- It can only open a WebP your browser can decode. If it cannot, the tool shows the message that this browser cannot read that image format.
+
+### Privacy
+
+The conversion code does not call fetch, XMLHttpRequest or a beacon. The browser decodes the file, the tool draws it on a canvas and saves the canvas, and the download button points at a temporary link held in your own browser&#x27;s memory. The page loads its own scripts, such as analytics, but none of them is given your picture.
+
+### Guides
+
+- How to reduce image file size without ruining quality: dimensions, format, quality and metadata, in the order that matters.
+- Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit: why forms reject photos and how to check the real requirements.
+
+### Sources
+
+- Google: WebP ( WebP is lossy or lossless, can hold transparency in both modes, and can be animated), checked 16 November 2026.
+- MDN: Image file type and format guide ( which formats are lossy or lossless, which support transparency and animation, and browser support), checked 16 November 2026.
+- MDN: HTMLCanvasElement.toBlob() ( how a canvas is saved to a file: PNG as the default, quality for lossy formats, and 96 dpi), checked 16 November 2026.
+- HTML Standard: the canvas element and ImageBitmap ( an animated image drawn on a canvas becomes a single still), checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I convert WebP to JPG?
+Add the WebP files and download the JPGs. The conversion runs in your browser, so the images are not uploaded.
+
+Why did my image download as WebP?
+Many websites serve WebP because the files are smaller. Browsers save what the site sent, so you get a.webp file that some programs cannot open.
+
+Does it keep animation?
+No. JPG cannot be animated, so only a single still from an animated WebP is kept.
+
+What happens to transparency?
+JPG has no transparency, so transparent areas are filled with the background colour you pick, white by default.
+
+Will quality suffer?
+Some loss is possible because the picture is saved lossy a second time if the WebP was lossy. At about 90% quality it is usually hard to notice.
+
+Why is the JPG bigger than my WebP?
+WebP is a more efficient format, so the same picture often takes more bytes as a JPG. Lower the quality, or use the compress pages to reach a size limit.
+
+Which browsers can open WebP?
+MDN lists all versions of Chrome, Edge, Firefox, Opera and Safari. Safari on macOS needs version 14 or later on Big Sur or newer.
+
+Does the JPG keep the metadata?
+No. Only pixels are saved, so any metadata in the WebP is not in the JPG.
+
+### Related tools
+
+Image to JPG Converter PNG to JPG Converter Image Compressor AVIF to JPG Converter Image Resizer
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# AVIF to JPG Converter: Browser Support & No Upload
+
+URL: https://images.streamerosai.com/avif-to-jpg/
+
+Free · private · runs in your browser
+
+## AVIF to JPG Converter
+
+Convert AVIF images to JPG in your browser. It works when your browser can read AVIF, which current Chrome, Edge, Firefox and Safari can.
+Drop images here or click to choose AVIF images (other formats work too). Files stay on your device. Quality: 92 %
+Background for transparent areas
+
+Choose one or more images to start. Nothing is uploaded.
+
+### How to convert AVIF to JPG
+
+- Add the.avif files. Your browser reads them and nothing is uploaded.
+- If an AVIF has transparent areas, pick the background colour that replaces them.
+- Keep the quality at 92%, or adjust it. Check the size shown against the original.
+- Press Download on each result. If the tool says the browser cannot read the format, try a newer browser (see the table).
+
+### What AVIF is
+
+AVIF is an image format that stores AV1 video-codec data in a HEIF container. MDN says it supports lossy and lossless compression, transparency, animation, and 8, 10 and 12 bits per channel. It is royalty free. Support in editors, upload forms and older software is still patchy, so a.avif file is often rejected.
+
+### Which browsers can read AVIF
+
+This tool does not decode AVIF itself. It asks your browser to read the file, so it works only where the browser supports AVIF. MDN lists these first versions with support:
+Browser First version with AVIF
+Chrome 85
+Opera 71
+Firefox 93 (animated AVIF from 113)
+Safari 16.1
+Edge 121
+
+### What changes when you save as JPG
+
+- Colour precision: AVIF can hold 10 or 12 bits per channel, and a JPG holds 8, so extra precision is lost.
+- Transparency: JPG has none, so transparent areas take the background colour you pick.
+- Animation: only a single still is saved. A canvas draws an animated image as its default image or first frame.
+- Size: MDN says lossy AVIF files are around 50 percent smaller than JPEG at visually similar quality, so your JPG is likely to be larger than the AVIF.
+- Quality: this is a lossy save, so a little more detail may be discarded.
+
+### AVIF is not HEIC
+
+iPhone photos are often HEIC, which is a different format, even though AVIF uses the same HEIF container. This tool reads only what your browser can decode, and HEIC is not among the formats MDN lists for the web, so a HEIC file is likely to fail with a message that the browser cannot read it. Switching the phone camera to save as JPG is the simplest fix.
+
+### What this converter leaves out
+
+- No animation, only a still.
+- The tool saves only pixels. It never reads or writes metadata, so camera details, GPS position and text notes stored in the original are not copied to the new file. If the original had an EXIF rotation tag, the browser applies it when it reads the picture, so the result is the right way up.
+- No wide-gamut or HDR output: the JPG is an ordinary 8-bit file.
+- It cannot read AVIF in a browser that does not support it.
+
+### Privacy
+
+The conversion code does not call fetch, XMLHttpRequest or a beacon. The browser decodes the file, the tool draws it on a canvas and saves the canvas, and the download button points at a temporary link held in your own browser&#x27;s memory. The page loads its own scripts, such as analytics, but none of them is given your picture.
+
+### Guides
+
+- How to reduce image file size without ruining quality: dimensions, format, quality and metadata, in the order that matters.
+- Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit: why forms reject photos and how to check the real requirements.
+
+### Sources
+
+- MDN: Image file type and format guide ( which formats are lossy or lossless, which support transparency and animation, and browser support), checked 16 November 2026.
+- MDN: HTMLCanvasElement.toBlob() ( how a canvas is saved to a file: PNG as the default, quality for lossy formats, and 96 dpi), checked 16 November 2026.
+- HTML Standard: the canvas element and ImageBitmap ( an animated image drawn on a canvas becomes a single still), checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I convert AVIF to JPG?
+Add the AVIF files and download the JPGs. Your browser reads the AVIF and re-saves it as JPG, and nothing is uploaded.
+
+Why will it not open my AVIF file?
+Your browser may be too old to read AVIF. MDN lists Chrome 85, Edge 121, Opera 71, Firefox 93 and Safari 16.1 as the first versions with support. Try a current browser.
+
+Can it convert HEIC photos from an iPhone?
+Probably not. HEIC is a different format from AVIF, and this tool can only read what your browser can decode. Setting the camera to save JPG avoids the problem.
+
+What about transparency?
+JPG has no transparency, so transparent areas are filled with the background colour you choose, white by default.
+
+Does it convert animated AVIF?
+Only a single still is saved. JPG cannot be animated.
+
+Is the JPG larger than the AVIF?
+Usually yes. MDN says AVIF is much more efficient than JPEG, so the same picture takes more bytes as a JPG.
+
+Will I lose HDR or colour depth?
+Yes. AVIF can hold 10 or 12 bits per channel, but a JPG holds 8, so the result is a standard 8-bit picture.
+
+Is the image uploaded anywhere?
+No. Your browser decodes and re-saves it on your device.
+
+### Related tools
+
+Image to JPG Converter WebP to JPG Converter Image Compressor PNG to JPG Converter Image Resizer
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Convert Image to JPG: PNG, WebP, AVIF, GIF (No Upload)
+
+URL: https://images.streamerosai.com/image-to-jpg/
+
+Free · private · runs in your browser
+
+## Image to JPG Converter
+
+Convert almost any image to JPG in your browser. Drop in PNG, WebP, AVIF or other pictures, pick the quality, and download the JPGs.
+Drop images here or click to choose PNG, WebP, AVIF, GIF or JPG images. Files stay on your device. Quality: 92 %
+Background for transparent areas
+
+Choose one or more images to start. Nothing is uploaded.
+
+### How to convert Image to JPG
+
+- Add images of any kind, in one batch if you like. Each is converted on your device and never uploaded.
+- Pick the background colour for transparent areas, and the quality. The defaults are white and 92%.
+- Check each result line. A file the browser cannot read shows a message and the rest carry on.
+- Press Download on each. Every file is named like original-converted.jpg.
+
+### What happens to each kind of image
+
+This converter does not read formats itself. Your browser decodes each file, so the list depends on the browser. The file chooser accepts any file marked as an image, and files ending in.avif,.webp,.jpg,.jpeg or.png.
+You add What the JPG gets
+PNG Same pixels, transparent areas filled with your background colour
+WebP Same, and an animated WebP becomes one still
+AVIF Same, saved at 8 bits per channel, if your browser reads AVIF
+GIF A single still; animation is lost, and a transparent colour takes your background
+JPG Saved again at the quality you pick, which discards a little more detail
+HEIC and others Converted only if your browser can decode them; most cannot read HEIC
+
+### Why convert to JPG
+
+JPG is a lossy format that every major browser and nearly all software and upload forms accept. Screenshots, web downloads and phone photos often arrive as PNG, WebP or AVIF, which some forms reject.
+
+### Choosing the quality
+
+- 92% is the starting point: a good balance for photos you may print or reuse.
+- Around 75% to 85% makes a clearly smaller file for web pages and email.
+- Below about 50%, blocky artefacts are easy to see.
+- For a file under a set size, use the compress pages, which choose the quality for you.
+
+### Transparency, animation and metadata
+
+JPG has no transparency, so the tool paints your background colour first and draws the picture over it. Semi-transparent edges blend with that colour. JPG also has no animation, so only a still is saved: a canvas draws an animated image as its default image or first frame.
+The tool saves only pixels. It never reads or writes metadata, so camera details, GPS position and text notes stored in the original are not copied to the new file. If the original had an EXIF rotation tag, the browser applies it when it reads the picture, so the result is the right way up.
+
+### If you need a specific format
+
+Each of these has its own page with detail on that format: PNG, WebP, AVIF. For the other direction, JPG to PNG makes a lossless copy.
+
+- PNG to JPG: background colour for logos with transparency.
+- WebP to JPG: animated and transparent WebP, and browser support.
+- AVIF to JPG: which browsers read AVIF, and what is lost.
+- JPG to PNG: a lossless copy for editing.
+
+### What this converter leaves out
+
+- No resizing: the picture keeps its pixel size. Use the image resizer.
+- No HEIC support in most browsers.
+- Pictures over 120 million pixels are refused.
+- No upload and no account, so nothing is stored for you to come back to.
+
+### Privacy
+
+The conversion code does not call fetch, XMLHttpRequest or a beacon. The browser decodes the file, the tool draws it on a canvas and saves the canvas, and the download button points at a temporary link held in your own browser&#x27;s memory. The page loads its own scripts, such as analytics, but none of them is given your picture.
+
+### Guides
+
+- How to reduce image file size without ruining quality: dimensions, format, quality and metadata, in the order that matters.
+- Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit: why forms reject photos and how to check the real requirements.
+
+### Sources
+
+- MDN: Image file type and format guide ( which formats are lossy or lossless, which support transparency and animation, and browser support), checked 16 November 2026.
+- MDN: HTMLCanvasElement.toBlob() ( how a canvas is saved to a file: PNG as the default, quality for lossy formats, and 96 dpi), checked 16 November 2026.
+- MDN: createImageBitmap() ( how the browser reads an image and applies its EXIF orientation by default), checked 16 November 2026.
+- HTML Standard: the canvas element and ImageBitmap ( an animated image drawn on a canvas becomes a single still), checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I convert an image to JPG?
+Add the images, choose the quality, and download the JPGs. The conversion runs in your browser, so nothing is uploaded.
+
+Which formats can I convert to JPG?
+Any format your browser can display, including PNG, WebP, GIF and JPG. AVIF works in browsers that support it, such as current Chrome, Edge, Firefox and Safari.
+
+Can I convert HEIC photos from an iPhone?
+Probably not. This tool can only read what your browser can decode, and most browsers cannot read HEIC. Setting the camera to save JPG avoids the problem.
+
+What quality should I choose?
+About 90% is a good default: files are much smaller than PNG and the difference is hard to see. Lower it for a smaller file, or raise it for photos you will print.
+
+What happens to transparent backgrounds?
+JPG cannot be transparent, so transparent pixels are painted with the background colour you pick, white by default.
+
+What happens to an animated GIF or WebP?
+Only a single still is saved, because JPG cannot be animated.
+
+Can I convert many files at once?
+Yes. Select several files and each is converted and listed with its own download button. A file that cannot be read shows an error without stopping the others.
+
+Does the JPG keep camera and location data?
+No. Only pixels are saved, so EXIF and GPS data are not in the result.
+
+Does it make the picture smaller in pixels?
+No. The pixel size stays the same. Use the image resizer to change it.
+
+### Related tools
+
+PNG to JPG Converter WebP to JPG Converter AVIF to JPG Converter Image Compressor Image Resizer
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Image Guides: Reduce Size, Fix Upload Limits
+
+URL: https://images.streamerosai.com/guides/
+
+Guides
+
+## Guides for image size and formats
+
+Short explanations that go with the tools, written to fix the problem you came with.
+
+#### How to reduce image file size without ruining quality
+
+Dimensions, format, quality and metadata, in the order that matters.
+Read guide →
+
+#### Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit
+
+A step-by-step way to get a photo under a small file-size limit.
+Read guide →
+Each guide works through real file-size arithmetic, lists the mistakes that cause rejections, and says what the tools can and cannot do. They are general, because every portal sets its own rules; the instructions on the form you are filling in always win.
+
+
+---
+
+# How to Reduce Image File Size Without Ruining Quality
+
+URL: https://images.streamerosai.com/guides/reduce-image-size/
+
+## How to reduce image file size without ruining quality
+
+A phone photo is often several megabytes, far more than a web page, an email or an upload form needs. Four things decide a file size. Working through them in this order gets the biggest saving for the least damage.
+
+### 1. Dimensions: fewer pixels
+
+File size grows with the number of pixels, which is width times height. Halving both sides leaves a quarter of the pixels. A photo taken at 4000 x 3000 pixels is 12 million pixels, far more than a screen needs; scaled to 1600 pixels wide it is about 1.9 million. Resizing is the biggest lever and costs the least visible quality. Use the image resizer.
+
+### 2. Format: pick the right one
+
+- JPEG suits photos. It discards detail the eye barely notices, so files are small, and it is accepted everywhere. It has no transparency.
+- PNG is lossless and keeps transparency, which makes it ideal for logos, screenshots and text, and large for photos.
+- WebP makes smaller files than JPEG or PNG at similar quality and supports transparency, but some older programs and upload forms reject it.
+A photo saved as PNG is usually many times larger than the same photo as JPEG. Convert with the PNG to JPG converter.
+
+### 3. Quality: lower it, but not too far
+
+JPEG and WebP have a quality setting. The first reductions save a lot of space with little visible change; past a point the savings shrink and blocky artefacts appear. A setting in the range of 75% to 85% is a sensible place to start, then look at the result. The image compressor shows the before and after sizes so you can decide.
+
+### 4. Metadata: strip what you do not need
+
+Photos carry extra data such as the camera model and, often, GPS location. It is usually small, but removing it is good for privacy. Saving an image through a canvas, as these tools do, drops it.
+
+### Compress to an exact size
+
+When a form or site has a limit, such as 100 KB, 50 KB or 20 KB, the tool searches for the highest quality that fits, and reduces dimensions in steps if quality alone is not enough. Always keep the original, because lossy compression cannot be undone.
+
+### Worked example: why resizing comes first
+
+An uncompressed colour image stores about 3 bytes per pixel (one each for red, green and blue). A 4000 x 3000 photo has 12,000,000 pixels, so before compression it is about 36 MB. Scaled to 1600 x 1200 it has 1,920,000 pixels and is about 5.8 MB uncompressed, 16% of the original (1,920,000 / 12,000,000). JPEG then compresses what is left; the ratio depends heavily on the picture, with detailed scenes compressing less than plain ones, so the only reliable way to know the final size is to save it and look. The point of the arithmetic is the direction: the number of pixels is multiplied by the quality setting, not added to it, so cutting pixels first leaves less for the quality setting to have to cut.
+
+### Common mistakes
+
+- Compressing the same file again and again. Each save of a JPEG discards a little more detail. Always start from the original file, and compress once.
+- Renaming instead of converting. Changing photo.png to photo.jpg in the file name does not change the data inside, and many forms inspect the content, not the name.
+- Making a small image bigger. Scaling up adds pixels but no detail, so the file grows and looks soft. Resize down only.
+- Using PNG for photographs. PNG stores every pixel exactly, so photographs are large; it earns its size on logos, screenshots and text.
+- Expecting transparency after converting to JPG. JPEG has none; transparent areas are filled with a background colour (white in these tools).
+
+### What the quality number means
+
+The quality value you set is passed to the browser&#x27;s own image encoder as a number between 0 and 1 (the quality argument of canvas.toBlob, documented by MDN at developer.mozilla.org). It is not a percentage of the original size, and the same number can give slightly different files in different browsers, because each browser uses its own encoder. That is why the tools show the real size after encoding instead of promising one.
+
+
+---
+
+# Photo Upload Rejected? Get a Picture Under 20, 50 or 100 KB
+
+URL: https://images.streamerosai.com/guides/image-size-limits-on-forms/
+
+## Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit
+
+Application portals, job sites and government forms often accept only small images. The rejection message is usually short, so it helps to know the handful of things a form can be checking and how to fix each one.
+
+### What the form may be checking
+
+- File size: a maximum, and sometimes a minimum too, in KB or MB.
+- Pixel dimensions: an exact width and height, or a range.
+- Format: JPG or PNG. A file renamed from PNG to.jpg is still a PNG inside and may be rejected.
+- Content: for photos, framing, background and face size.
+Read the instructions for all of them before you start; fixing only the size and being rejected for the format is the common trap.
+
+### Step by step
+
+- Crop first. Cut the picture to the area that matters. Fewer pixels means a smaller file at the same quality.
+- Resize to the required pixels, if the form states them, with the image resizer.
+- Compress to the limit. Open the page for your limit: 20 KB, 50 KB or 100 KB. The tool finds the best quality that fits.
+- Check the result: size, pixel dimensions and that it looks clear when zoomed in.
+
+### If it will not get small enough
+
+A very detailed picture at large dimensions cannot reach a tiny limit at good quality. Reduce the pixel dimensions, or use a plainer background; a face on a plain background compresses far better than a busy scene. Signatures on white paper compress very well.
+
+### If it is too small
+
+Some forms set a minimum as well as a maximum. If the compressed file is under the minimum, compress to a higher limit, for example 100 KB instead of 50 KB, and check the result lands in the allowed range.
+
+### Keep your photos private
+
+ID-style photos are sensitive. Many online compressors upload the file to a server. The tools here work in your browser, so the picture never leaves your device, and the saved file has its camera and location data removed.
+
+### KB, kilobytes and what the form means
+
+A kilobyte is 1,000 bytes in the decimal convention and 1,024 bytes in the older binary one, and portals do not say which they use. The size tools on this site aim at the smaller figure: a 50 KB target means at most 50 x 1,000 = 50,000 bytes, which is also under 50 x 1,024 = 51,200 bytes, so the file passes under either reading. File managers differ too, so a file shown as "48.8 KB" in one program can be "50,000 bytes" in another; the byte count is what the portal compares.
+
+### Worked example: a passport-style photo for a 50 KB limit
+
+A photo from a phone is, say, 3024 x 4032 pixels and 2.6 MB. The form asks for a JPG under 50 KB and gives no pixel size. Cropping to the head and shoulders and resizing to about 600 x 800 leaves 480,000 pixels, about 4% of the original 12.2 million, which is more than enough for a small on-screen portrait. At that size a photo on a plain background will often land under the limit near the middle of the quality range; a cluttered background needs a lower setting and may not. Look at the result at 100% zoom before you upload: if the face is clear, the file is good; if edges are blocky, go back to the original and crop tighter instead of lowering quality further.
+
+### Common reasons a form still rejects the file
+
+- The pixel dimensions are outside the range the form states, even though the size is fine.
+- The file is a different format inside than its extension says (a renamed PNG).
+- The file is below a stated minimum size because it was compressed too far.
+- The form measures the size in its own way, for example counting a different unit; read the instructions again for the exact wording.
+- The photo rules were not met: background colour, face position or no glasses. No tool can fix those afterwards; retake the picture.
+These numbers and rules are general. Each portal sets its own, so follow the instructions on the form you are using; this guide cannot know them.
+
+
+---
+
+# About StreamerOS Image Tools: Free, Private Image Tools
+
+URL: https://images.streamerosai.com/about/
+
+## About
+
+StreamerOS Image Tools is a small set of free tools for everyday picture jobs: compressing a photo to a size limit, resizing, and converting between PNG, JPG, WebP and AVIF, with short guides that explain what is happening to the file.
+It is built and maintained by Yaseen Khatib, a full-stack AI engineer, as part of the StreamerOS project. Many image tools upload your pictures to a server, which is a poor fit for ID-style photos and private pictures, so everything here runs on your own device.
+
+### How the tools work
+
+Your browser decodes the image and draws it on a canvas, and then saves it again in the format and size you asked for. The pictures are not sent to a server or stored, and closing the page clears them. The site is a static website hosted on GitHub Pages.
+
+### What the results are, and are not
+
+Compression is lossy: JPEG and WebP discard some detail to save space, so keep your original. Saving through a canvas also removes metadata such as camera details and location. If a form has rules beyond file size, such as exact pixel dimensions, check them yourself.
+
+### Who is behind it
+
+The site is run by one person, Yaseen Khatib, a full-stack AI developer based in Hyderabad, India. His portfolio is at yk.streamerosai.com. There is no team and no company behind the pages, which is why corrections go straight to him through the contact page. The same family of small sites also includes tools for developers, money, images and maths at tools, calc, images and math on streamerosai.com.
+
+### How pages are kept accurate
+
+The calculation code has automated tests, every formula is written out on the page with a worked example you can check by hand, and facts that come from outside (rates, rules, standards) name their source. Each page shows the date it was last reviewed, and that date changes only when the page does. The assumptions and limits of a tool are stated on its page rather than hidden, and a result that cannot be right (an impossible date, for instance) shows a message instead of a number. The terms of use and privacy policy describe the rest.
+
+### How the site is funded
+
+The tools are free. The site does not show ads at the moment; it may show Google AdSense ads to cover hosting and development time. Ads never change what a tool does to your image.
+
+### Corrections
+
+If a tool misbehaves or a guide contains a mistake, please use the contact page. Fixes are made in the open and the guides are updated.
+
+
+---
+
+# Privacy Policy: StreamerOS Image Tools
+
+URL: https://images.streamerosai.com/privacy/
+
+## Privacy Policy
+
+This policy describes what StreamerOS Image Tools ( https://images.streamerosai.com) does with information when you use it. Last updated: 19 November 2026.
+
+### What the tools do with your input
+
+The tools process your images entirely in your browser. The pictures you choose are not transmitted to our servers, logged, or stored, and closing the page clears them. Re-saving an image through the tools also removes metadata such as camera details and GPS location from the file you download.
+
+### Cookies and similar technologies
+
+Cookies are small files a site stores in your browser. The analytics and advertising services listed below may set cookies or read similar identifiers. The tools themselves do not need a cookie to work. The only thing the site stores for its own use is your light or dark theme choice, kept in your browser&#x27;s local storage and never sent anywhere. You can block or delete cookies in your browser settings; the tools keep working either way.
+
+### Analytics
+
+This site uses Google Analytics 4 to count visits and see which pages are useful. It collects page views, approximate location, device and browser type, and how you arrived, using cookies and similar identifiers. It does not receive the text you enter into the tools. You can opt out with the Google Analytics opt-out browser add-on. We do not sell personal information.
+
+### Usage recording
+
+This site uses Microsoft Clarity to see how pages are used, through heatmaps and anonymised session recordings (mouse movement, clicks and scrolling). Clarity is configured to mask the text on the page, so what you type or load into a tool is not recorded. Clarity sets its own cookies ( _clck, _clsk) and Microsoft cookies on clarity.ms and bing.com (such as MUID); see Microsoft&#x27;s privacy statement.
+
+### First-party visit counter
+
+The site also runs a small counter of its own, Pulse, a script served from our own Cloudflare Worker (pulse.yaseenyk.workers.dev), to tell real visits from automated ones. It records the page address (without the query string), the referring site and campaign tags, country, device type, browser and system name, screen size, language, the name of your network provider, scroll depth, time on the page, page speed, which links and buttons were clicked, and a human-or-bot signal. It sets no cookies, never reads what you type or the values in input fields, and stores no IP address or browser string: the address is used in memory only, to limit abuse and to make a visitor code that changes every day (a one-way hash with a random salt that is deleted the next day), so visits cannot be linked across days. Records are deleted after 90 days. It switches itself off when your browser sends Do Not Track or Global Privacy Control, and on localhost. The data is used only to understand how the site is used.
+
+### Advertising
+
+This site does not show ads at the moment. We intend to use Google AdSense after approval. Once ads run, Google and its partners may use cookies to serve ads based on your visits to this and other websites. You can opt out of personalised advertising at adssettings.google.com, and learn how Google uses data from sites that use its services at policies.google.com/technologies/partner-sites. Where required by law (for example in the EEA and UK), personalised ads will be shown only after you consent. Ads will never change a tool&#x27;s result, and this policy will be updated before ads go live if anything above changes.
+
+### Your choices
+
+You can use the site with cookies blocked, opt out of Google Analytics with the add-on above, turn on Do Not Track or Global Privacy Control to switch off the visit counter, and ask a privacy question through the contact page. We do not collect accounts, names or email addresses through the tools. If you write to us, we use your address only to reply.
+
+### Children
+
+The tools are general-purpose and not aimed at children under 13, and we do not knowingly collect their data.
+
+### Contact
+
+Questions about this policy: see the contact page. The rules for using the site are in the terms of use.
+
+
+---
+
+# Terms of Use: StreamerOS Image Tools
+
+URL: https://images.streamerosai.com/terms/
+
+## Terms of Use
+
+These terms apply when you use StreamerOS Image Tools ( https://images.streamerosai.com). By using the site you agree to them. If you do not agree, please do not use it. Last updated: 16 November 2026.
+
+### What the site is
+
+StreamerOS Image Tools is a free set of browser-based tools and explanatory guides, run by an individual. The tools run on your device. How the site treats information is described in the privacy policy.
+
+### Use as is, and accuracy
+
+The tools and guides are provided as they are, without warranties of any kind. We test the logic and state our formulas and assumptions on each page, but mistakes are possible and rules, rates and standards change. Check anything that matters before you rely on it.
+
+### Your images and your responsibility
+
+The tools process images in your browser, and you keep all rights in them. Only use images you have the right to use. Lossy compression and conversion permanently discard detail in the file you download, so keep your original. We cannot guarantee that a particular upload form, portal or authority will accept a file the tools produce; check its requirements.
+
+### Acceptable use
+
+Use the site lawfully. Do not attempt to disrupt it, overload it with automated requests, probe it for weaknesses, or use it to process material you have no right to handle. You are responsible for the data you put into a tool and for what you do with the result.
+
+### Content and ownership
+
+The text, design and code of the site belong to its owner unless stated otherwise, and third-party names and standards cited remain the property of their owners. You may link to any page. Please do not republish the guides or copy them in bulk without permission; short quotations with a link back are fine.
+
+### Links, ads and third parties
+
+Pages link to outside sources so you can check our work. We do not control those sites and are not responsible for them. If ads are shown, they are provided by third parties, are labelled as ads, and do not mean we endorse the advertiser.
+
+### Availability and liability
+
+The site may change or be unavailable at any time. To the extent the law allows, we are not liable for any loss arising from your use of, or inability to use, the site or from reliance on a result it gives. Nothing here limits any right you have by law that cannot be limited.
+
+### Changes to these terms
+
+We may update these terms. The date at the top shows the latest version, and continued use after a change means you accept it.
+
+### Contact
+
+Questions about these terms: see the contact page.
+
+
+---
+
+# Contact StreamerOS Image Tools: Bugs and Requests
+
+URL: https://images.streamerosai.com/contact/
+
+## Contact
+
+Found a bug, a wrong result, or want a tool added? Tell us and include the input that caused the problem when you can. Messages go to the person who runs the site, and we aim to reply within a few working days.
+Email: contact@streamerosai.com
+
+### What helps most
+
+- The page address and what you expected to see.
+- The input that caused a wrong result, with anything private removed, and the browser you used.
+- For a mistake in a guide, the sentence and the source you believe says otherwise.
+
+### What we cannot do
+
+We cannot give personal financial, tax, legal or employment advice, check a specific document, or recover a file for you, because nothing you enter is uploaded to us. The site is run by one person, so replies can take a few days. Reports of wrong results are fixed first. If you do not want us to keep your email address, say so and we will delete the message once it is answered.
