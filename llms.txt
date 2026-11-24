@@ -1,0 +1,40 @@
+# StreamerOS Image Tools
+
+> Free image tools that run in your browser: compress to a target size, resize, and convert between formats. Your photos are never uploaded.
+
+Built and maintained by Yaseen Khatib, Full Stack AI Developer, Hyderabad, India (https://yk.streamerosai.com/).
+
+## Image tools
+
+- [Image Compressor](https://images.streamerosai.com/image-compressor/): Compress JPG, PNG and WebP images online. Set a quality or a target file size. Free, instant, and private: your photos are never uploaded.
+- [JPEG Compressor](https://images.streamerosai.com/jpeg-compressor/): JPEG compressor online: reduce the file size of JPG photos by quality or to an exact KB limit. Free and instant, with no upload: photos stay on your device.
+- [Compress Image to 20KB](https://images.streamerosai.com/compress-image-to-20kb/): Compress a photo or signature scan to 20 KB or less in your browser. No upload. See what makes 20 KB reachable, and what to do when it is not.
+- [Compress Image to 50KB](https://images.streamerosai.com/compress-image-to-50kb/): Compress a photo or document scan to 50 KB or less in your browser. No upload. Steps, a size budget table and what to do if text turns blurry.
+- [Compress Image to 100KB](https://images.streamerosai.com/compress-image-to-100kb/): Compress a photo to 100 KB or less in your browser, keeping as much quality as the limit allows. No upload. Free, with a size budget table.
+- [Image Resizer](https://images.streamerosai.com/image-resizer/): Photo resizer online: resize images by width, height or percentage, keeping the aspect ratio. Free and instant, with no upload: photos stay on your device.
+- [PNG to JPG Converter](https://images.streamerosai.com/png-to-jpg/): Convert PNG to JPG in your browser with no upload. Pick the quality and the colour that replaces transparent areas. Free, with batch support.
+- [JPG to PNG Converter](https://images.streamerosai.com/jpg-to-png/): Convert JPG to PNG in your browser with no upload. Get a lossless PNG copy for editing. See what changes, why the file is bigger and what stays the same.
+- [WebP to JPG Converter](https://images.streamerosai.com/webp-to-jpg/): Convert WebP to JPG in your browser with no upload. Fix a .webp download that a form or app rejects. Handles transparency and animated WebP.
+- [AVIF to JPG Converter](https://images.streamerosai.com/avif-to-jpg/): Convert AVIF to JPG in your browser with no upload. Which browsers read AVIF, and what happens to HDR, transparency and animation.
+- [Image to JPG Converter](https://images.streamerosai.com/image-to-jpg/): Convert any image to JPG in your browser with no upload: PNG, WebP, AVIF, GIF and more. See what happens to each format and what the tool cannot read.
+
+## Guides
+
+- [All guides](https://images.streamerosai.com/guides/)
+- [How to reduce image file size without ruining quality](https://images.streamerosai.com/guides/reduce-image-size/): The four things that shrink an image: dimensions, format, quality and metadata, in the order that matters, with how to choose between JPG, PNG and WebP.
+- [Photo upload rejected? How to hit a 20 KB, 50 KB or 100 KB limit](https://images.streamerosai.com/guides/image-size-limits-on-forms/): Why online forms reject photos, how to check the real requirements, and a step-by-step way to get a picture under a small file-size limit.
+
+## How it works
+
+- Every tool runs in your browser on a canvas. Your pictures are not uploaded.
+- To reach a target size the compressor lowers JPEG quality first (a search for the highest quality that still fits, never below a set minimum) and shrinks the dimensions only if the target cannot be reached by quality alone.
+- The size-search logic is a plain function covered by unit tests (Vitest). No claim is made beyond what those tests check.
+
+## About
+
+- [About](https://images.streamerosai.com/about/)
+- [Privacy](https://images.streamerosai.com/privacy/)
+- [Terms](https://images.streamerosai.com/terms/)
+- [Contact](https://images.streamerosai.com/contact/)
+- [Full text of every page, one file](https://images.streamerosai.com/llms-full.txt)
+- [Sitemap](https://images.streamerosai.com/sitemap.xml)
